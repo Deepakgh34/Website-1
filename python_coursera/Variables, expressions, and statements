@@ -9,3 +9,7 @@ hrs = input("Enter Hours:")  //inputing the hours
 rate= input("enter rate:")   //rate
 Pay = float(rate)*float(hrs)  //doing the final calculations
 print('Pay:',Pay)  //printing out
+
+
+///output:
+Pay: 96.25
